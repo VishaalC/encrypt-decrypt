@@ -1,2 +1,2 @@
 # python_project
-Python Project for college
+Python Project for college.
