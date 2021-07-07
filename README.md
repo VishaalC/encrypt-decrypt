@@ -1,2 +1,2 @@
 # python_project
-Python Project for college.
+Simple encryption/decryption project for college.
